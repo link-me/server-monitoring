@@ -26,10 +26,10 @@ Server Monitoring API на FastAPI, отдаёт системные метрик
    - Создайте графики по метрикам `server_cpu_percent`, `server_mem_used_bytes`, `server_disk_used_bytes`, `server_net_bytes_sent_total`, `server_net_bytes_recv_total`.
 
 Roadmap
-- См. `ROADMAP.md` (RU) и `ROADMAP.en.md` (EN) — план на 2023 по кварталам.
+- См. `ROADMAP.md` (RU) и `ROADMAP.en.md` (EN) — план на 2024 по кварталам.
 
-Язык
-- Private Usage: RU (`PRIVATE_USAGE.txt`) — локальный файл, игнорируется Git.
+Документация
+- Дорожные карты доступны на двух языках: RU/EN.
  
 Примечания
 - На Linux вместо `host.docker.internal` используйте IP хоста для Docker, например `172.17.0.1`.
