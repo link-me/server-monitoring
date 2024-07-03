@@ -1,5 +1,7 @@
 # Server Monitoring
 
+![Preview](./thorium_O1Z8EDSkIY.png)
+
 Server Monitoring API на FastAPI, отдаёт системные метрики и экспортирует их в формате Prometheus.
 
 Стек
