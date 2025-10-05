@@ -3,3 +3,4 @@
 - Fix auth bug
 - Fix auth bug
 - Add tests
+- Add tests
